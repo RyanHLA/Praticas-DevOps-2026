@@ -1,0 +1,9 @@
+=== RELATÓRIO DE ANÁLISE DE LOG ===
+Gerado em: Wed Apr 29 20:21:22     2026
+Arquivo fonte: logs/apache.log
+-----------------------------------
+Total de IPs únicos: 1
+Total de Métodos Perigosos: 0
+-----------------------------------
+Top 5 IPs com maior atividade:
+      1 163.1.21.143
