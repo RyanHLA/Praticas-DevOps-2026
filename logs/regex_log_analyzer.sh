@@ -3,7 +3,7 @@
 # ==============================================================================
 # NOME: regex_log_analyzer.sh
 # DESCRIÇÃO: Analisa logs do Apache e gera relatórios de segurança e tráfego.
-# AUTOR: [Seu Nome Aqui]
+# AUTOR: Ryan Haiala
 # USO: ./logs/regex_log_analyzer.sh logs/apache.log
 # HISTÓRICO: 2026-04-29: v1.0 - Criação do script inicial.
 # ==============================================================================
